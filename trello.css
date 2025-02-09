@@ -26,7 +26,7 @@ body {
 }
 
 .input-group input {
-    width: calc(100% - 40px); /* Ajusta o tamanho dos inputs para deixar espaço para a imagem */
+    width: calc(100% - 40px);
     padding: 15px;
     font-size: 18px;
     border: 2px solid #ddd;
@@ -40,8 +40,8 @@ body {
 }
 
 .img-wrapper {
-    flex: 0 0 auto; /* Garante que a imagem não se expanda */
-    width: 40px; /* Ajuste conforme necessário */
+    flex: 0 0 auto;
+    width: 40px; 
     text-align: center;
 }
 
