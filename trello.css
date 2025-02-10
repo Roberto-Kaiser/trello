@@ -50,6 +50,10 @@ body {
     width: 20px;
 }
 
+.input-group:first-of-type {
+    margin-top: -10px; /* Ajuste conforme necessário */
+}
+
 .input-group:last-child .img-wrapper {
     order: -1;
 }
